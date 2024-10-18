@@ -7,3 +7,4 @@ tensorflow
 tensorflow-intel
 tensorflow-io-gcs-filesystem
 scikit-learn
+category_encoders
