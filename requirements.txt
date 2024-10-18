@@ -1,0 +1,101 @@
+absl-py==2.1.0
+altair==5.4.1
+archspec @ file:///croot/archspec_1709217642129/work
+astunparse==1.6.3
+attrs==24.2.0
+blinker==1.8.2
+boltons @ file:///C:/ci_311/boltons_1677729932371/work
+brotlipy==0.7.0
+cachetools==5.5.0
+category-encoders==2.6.4
+certifi @ file:///C:/b/abs_1fw_exq1si/croot/certifi_1725551736618/work/certifi
+cffi @ file:///C:/ci_311/cffi_1676423759166/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.7
+colorama @ file:///C:/ci_311/colorama_1676422310965/work
+conda @ file:///C:/b/abs_3469hz00j_/croot/conda_1727850845317/work
+conda-content-trust @ file:///C:/ci_311/conda-content-trust_1676467587370/work
+conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1727775630457/work/src
+conda-package-handling @ file:///C:/b/abs_831_pypuuz/croot/conda-package-handling_1718138287790/work
+conda_package_streaming @ file:///C:/b/abs_fe6zb0_j8_/croot/conda-package-streaming_1718136098642/work
+cryptography @ file:///C:/b/abs_b28tzldafl/croot/cryptography_1686613103834/work
+distro @ file:///C:/b/abs_71xr36ua5r/croot/distro_1714488282676/work
+Flask==3.0.3
+flatbuffers==24.3.25
+frozendict @ file:///C:/b/abs_2alamqss6p/croot/frozendict_1713194885124/work
+gast==0.6.0
+gitdb==4.0.11
+GitPython==3.1.43
+google-pasta==0.2.0
+grpcio==1.66.2
+h5py==3.12.1
+idna @ file:///C:/ci_311/idna_1676424932545/work
+itsdangerous==2.2.0
+Jinja2==3.1.4
+joblib==1.4.2
+jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
+jsonpointer==2.1
+jsonschema==4.23.0
+jsonschema-specifications==2024.10.1
+keras==3.6.0
+libclang==18.1.1
+libmambapy @ file:///C:/b/abs_7dmjutgtwb/croot/mamba-split_1712091963973/work/libmambapy
+Markdown==3.7
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+mdurl==0.1.2
+menuinst @ file:///C:/b/abs_76jwd47ck1/croot/menuinst_1723567618942/work
+ml-dtypes==0.4.1
+namex==0.0.8
+narwhals==1.9.3
+numpy==1.26.4
+opt_einsum==3.4.0
+optree==0.13.0
+packaging @ file:///C:/b/abs_ed_kb9w6g4/croot/packaging_1678965418855/work
+pandas==2.2.3
+patsy==0.5.6
+pillow==10.4.0
+platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
+pluggy @ file:///C:/ci_311/pluggy_1676422178143/work
+protobuf==4.25.5
+pyarrow==17.0.0
+pycosat @ file:///C:/ci_311/pycosat_1676438455539/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydeck==0.9.1
+Pygments==2.18.0
+pyOpenSSL @ file:///C:/b/abs_de215ipd18/croot/pyopenssl_1678965319166/work
+PySocks @ file:///C:/ci_311/pysocks_1676425991111/work
+python-dateutil==2.9.0.post0
+pytz==2024.2
+referencing==0.35.1
+requests @ file:///C:/b/abs_41owkd5ymz/croot/requests_1682607524657/work
+rich==13.9.2
+rpds-py==0.20.0
+ruamel.yaml @ file:///C:/ci_311/ruamel.yaml_1676439214109/work
+scikit-learn==1.5.2
+scipy==1.14.1
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smmap==5.0.1
+statsmodels==0.14.4
+streamlit==1.39.0
+tenacity==9.0.0
+tensorboard==2.17.1
+tensorboard-data-server==0.7.2
+tensorflow==2.17.0
+tensorflow-intel==2.17.0
+tensorflow-io-gcs-filesystem==0.31.0
+termcolor==2.5.0
+threadpoolctl==3.5.0
+toml==0.10.2
+toolz @ file:///C:/ci_311/toolz_1676431406517/work
+tornado==6.4.1
+tqdm @ file:///C:/b/abs_f76j9hg7pv/croot/tqdm_1679561871187/work
+truststore @ file:///C:/b/abs_55z7b3r045/croot/truststore_1695245455435/work
+typing_extensions==4.12.2
+tzdata==2024.2
+urllib3 @ file:///C:/b/abs_889_loyqv4/croot/urllib3_1686163174463/work
+watchdog==5.0.3
+Werkzeug==3.0.4
+win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
+wrapt==1.16.0
+zstandard==0.19.0
