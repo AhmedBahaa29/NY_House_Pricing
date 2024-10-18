@@ -1,3 +1,4 @@
+pip install --upgrade pip
 statsmodels==0.14.4
 streamlit==1.39.0
 tenacity==9.0.0
